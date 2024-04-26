@@ -30,7 +30,7 @@
         <div class="container-fluid">
            
             <a class="navbar-brand" href="javascript:void(0)">
-                <img src="./assets/img/hotel.png" height="50">
+                <img src="./assets/img/plant.png" height="50">
             </a>
           
 
@@ -51,7 +51,7 @@
                     </li>
                    
                 </ul>
-                <span class="navbar-text col text-center">Welcome to Smart Reservation Parking System</span>
+                <span class="navbar-text col text-center">Welcome Visitors</span>
                 <form class="d-flex">
                     <input onkeyup="search(this.value)" class="form-control " type="text"
                         placeholder="Search anything here">
@@ -63,10 +63,10 @@
     </nav>
     
     <div class="container-fluid mb-5">
-        <p class="h1 mt-2">Smart Parking System</p>
-        <p class="mt-2">You can Park your car for safety and avoid carjacking</p>
+        <p class="h1 mt-2">Tree Planting</p>
+        <p class="mt-2">You can save our earth.</p>
         <div class="card mt-2">
-            <div class="card-header" style="text-align : center;"><-----List of Guest-----></div>
+            <div class="card-header" style="text-align : center;">List of Guest</div>
             <div class="card-body"> <strong> </strong>
                 <table class="table table-bordered table-hover" ;>
                     <thead>
@@ -108,7 +108,7 @@
             </tbody>
             </table>
         </div>
-        <div class="card-footer">This are all the List of Guest Park thier car to our Smart Parking System </div>
+        <div class="card-footer">This are all the List of Guest participated in tree planting. </div>
     </div>
  
 
