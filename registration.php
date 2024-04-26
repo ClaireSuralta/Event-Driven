@@ -58,9 +58,6 @@
 
             <form action="./model/save.php/" method="POST">
 
-            <div class="card-header" style="text-align : center;">Register Now !!</div>
-            <div class="card-body">
-
                 <!-- Alert --> 
                  <?php
                 if (isset($_GET { 'success'})){
